@@ -1,6 +1,5 @@
-#include "C:\\ddd\\fff\\pract.c"
-#include "C:\\ddd\\fff\\pract.h"
 
+#include "pract.h"
 
 int main()
 {
